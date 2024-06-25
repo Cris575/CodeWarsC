@@ -1,0 +1,14 @@
+C:\Users\PROYECTALL\Desktop\codewars\L1SetAlarm\bin\Debug\net8.0\L1SetAlarm.exe
+C:\Users\PROYECTALL\Desktop\codewars\L1SetAlarm\bin\Debug\net8.0\L1SetAlarm.deps.json
+C:\Users\PROYECTALL\Desktop\codewars\L1SetAlarm\bin\Debug\net8.0\L1SetAlarm.runtimeconfig.json
+C:\Users\PROYECTALL\Desktop\codewars\L1SetAlarm\bin\Debug\net8.0\L1SetAlarm.dll
+C:\Users\PROYECTALL\Desktop\codewars\L1SetAlarm\bin\Debug\net8.0\L1SetAlarm.pdb
+C:\Users\PROYECTALL\Desktop\codewars\L1SetAlarm\obj\Debug\net8.0\L1SetAlarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROYECTALL\Desktop\codewars\L1SetAlarm\obj\Debug\net8.0\L1SetAlarm.AssemblyInfoInputs.cache
+C:\Users\PROYECTALL\Desktop\codewars\L1SetAlarm\obj\Debug\net8.0\L1SetAlarm.AssemblyInfo.cs
+C:\Users\PROYECTALL\Desktop\codewars\L1SetAlarm\obj\Debug\net8.0\L1SetAlarm.csproj.CoreCompileInputs.cache
+C:\Users\PROYECTALL\Desktop\codewars\L1SetAlarm\obj\Debug\net8.0\L1SetAlarm.dll
+C:\Users\PROYECTALL\Desktop\codewars\L1SetAlarm\obj\Debug\net8.0\refint\L1SetAlarm.dll
+C:\Users\PROYECTALL\Desktop\codewars\L1SetAlarm\obj\Debug\net8.0\L1SetAlarm.pdb
+C:\Users\PROYECTALL\Desktop\codewars\L1SetAlarm\obj\Debug\net8.0\L1SetAlarm.genruntimeconfig.cache
+C:\Users\PROYECTALL\Desktop\codewars\L1SetAlarm\obj\Debug\net8.0\ref\L1SetAlarm.dll

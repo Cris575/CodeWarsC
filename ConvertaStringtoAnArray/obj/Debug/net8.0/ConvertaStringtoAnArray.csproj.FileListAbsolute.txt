@@ -1,0 +1,14 @@
+C:\Users\PROYECTALL\Desktop\codewars\ConvertaStringtoAnArray\bin\Debug\net8.0\ConvertaStringtoAnArray.exe
+C:\Users\PROYECTALL\Desktop\codewars\ConvertaStringtoAnArray\bin\Debug\net8.0\ConvertaStringtoAnArray.deps.json
+C:\Users\PROYECTALL\Desktop\codewars\ConvertaStringtoAnArray\bin\Debug\net8.0\ConvertaStringtoAnArray.runtimeconfig.json
+C:\Users\PROYECTALL\Desktop\codewars\ConvertaStringtoAnArray\bin\Debug\net8.0\ConvertaStringtoAnArray.dll
+C:\Users\PROYECTALL\Desktop\codewars\ConvertaStringtoAnArray\bin\Debug\net8.0\ConvertaStringtoAnArray.pdb
+C:\Users\PROYECTALL\Desktop\codewars\ConvertaStringtoAnArray\obj\Debug\net8.0\ConvertaStringtoAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROYECTALL\Desktop\codewars\ConvertaStringtoAnArray\obj\Debug\net8.0\ConvertaStringtoAnArray.AssemblyInfoInputs.cache
+C:\Users\PROYECTALL\Desktop\codewars\ConvertaStringtoAnArray\obj\Debug\net8.0\ConvertaStringtoAnArray.AssemblyInfo.cs
+C:\Users\PROYECTALL\Desktop\codewars\ConvertaStringtoAnArray\obj\Debug\net8.0\ConvertaStringtoAnArray.csproj.CoreCompileInputs.cache
+C:\Users\PROYECTALL\Desktop\codewars\ConvertaStringtoAnArray\obj\Debug\net8.0\ConvertaStringtoAnArray.dll
+C:\Users\PROYECTALL\Desktop\codewars\ConvertaStringtoAnArray\obj\Debug\net8.0\refint\ConvertaStringtoAnArray.dll
+C:\Users\PROYECTALL\Desktop\codewars\ConvertaStringtoAnArray\obj\Debug\net8.0\ConvertaStringtoAnArray.pdb
+C:\Users\PROYECTALL\Desktop\codewars\ConvertaStringtoAnArray\obj\Debug\net8.0\ConvertaStringtoAnArray.genruntimeconfig.cache
+C:\Users\PROYECTALL\Desktop\codewars\ConvertaStringtoAnArray\obj\Debug\net8.0\ref\ConvertaStringtoAnArray.dll

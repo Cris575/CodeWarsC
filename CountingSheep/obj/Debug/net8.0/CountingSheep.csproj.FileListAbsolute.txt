@@ -1,0 +1,14 @@
+C:\Users\PROYECTALL\Desktop\codewars\CountingSheep\bin\Debug\net8.0\CountingSheep.exe
+C:\Users\PROYECTALL\Desktop\codewars\CountingSheep\bin\Debug\net8.0\CountingSheep.deps.json
+C:\Users\PROYECTALL\Desktop\codewars\CountingSheep\bin\Debug\net8.0\CountingSheep.runtimeconfig.json
+C:\Users\PROYECTALL\Desktop\codewars\CountingSheep\bin\Debug\net8.0\CountingSheep.dll
+C:\Users\PROYECTALL\Desktop\codewars\CountingSheep\bin\Debug\net8.0\CountingSheep.pdb
+C:\Users\PROYECTALL\Desktop\codewars\CountingSheep\obj\Debug\net8.0\CountingSheep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROYECTALL\Desktop\codewars\CountingSheep\obj\Debug\net8.0\CountingSheep.AssemblyInfoInputs.cache
+C:\Users\PROYECTALL\Desktop\codewars\CountingSheep\obj\Debug\net8.0\CountingSheep.AssemblyInfo.cs
+C:\Users\PROYECTALL\Desktop\codewars\CountingSheep\obj\Debug\net8.0\CountingSheep.csproj.CoreCompileInputs.cache
+C:\Users\PROYECTALL\Desktop\codewars\CountingSheep\obj\Debug\net8.0\CountingSheep.dll
+C:\Users\PROYECTALL\Desktop\codewars\CountingSheep\obj\Debug\net8.0\refint\CountingSheep.dll
+C:\Users\PROYECTALL\Desktop\codewars\CountingSheep\obj\Debug\net8.0\CountingSheep.pdb
+C:\Users\PROYECTALL\Desktop\codewars\CountingSheep\obj\Debug\net8.0\CountingSheep.genruntimeconfig.cache
+C:\Users\PROYECTALL\Desktop\codewars\CountingSheep\obj\Debug\net8.0\ref\CountingSheep.dll

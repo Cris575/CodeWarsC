@@ -1,0 +1,14 @@
+C:\Users\PROYECTALL\Desktop\codewars\SumWithoutHighestAndLowestNumber\bin\Debug\net8.0\SumWithoutHighestAndLowestNumber.exe
+C:\Users\PROYECTALL\Desktop\codewars\SumWithoutHighestAndLowestNumber\bin\Debug\net8.0\SumWithoutHighestAndLowestNumber.deps.json
+C:\Users\PROYECTALL\Desktop\codewars\SumWithoutHighestAndLowestNumber\bin\Debug\net8.0\SumWithoutHighestAndLowestNumber.runtimeconfig.json
+C:\Users\PROYECTALL\Desktop\codewars\SumWithoutHighestAndLowestNumber\bin\Debug\net8.0\SumWithoutHighestAndLowestNumber.dll
+C:\Users\PROYECTALL\Desktop\codewars\SumWithoutHighestAndLowestNumber\bin\Debug\net8.0\SumWithoutHighestAndLowestNumber.pdb
+C:\Users\PROYECTALL\Desktop\codewars\SumWithoutHighestAndLowestNumber\obj\Debug\net8.0\SumWithoutHighestAndLowestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROYECTALL\Desktop\codewars\SumWithoutHighestAndLowestNumber\obj\Debug\net8.0\SumWithoutHighestAndLowestNumber.AssemblyInfoInputs.cache
+C:\Users\PROYECTALL\Desktop\codewars\SumWithoutHighestAndLowestNumber\obj\Debug\net8.0\SumWithoutHighestAndLowestNumber.AssemblyInfo.cs
+C:\Users\PROYECTALL\Desktop\codewars\SumWithoutHighestAndLowestNumber\obj\Debug\net8.0\SumWithoutHighestAndLowestNumber.csproj.CoreCompileInputs.cache
+C:\Users\PROYECTALL\Desktop\codewars\SumWithoutHighestAndLowestNumber\obj\Debug\net8.0\SumWithoutHighestAndLowestNumber.dll
+C:\Users\PROYECTALL\Desktop\codewars\SumWithoutHighestAndLowestNumber\obj\Debug\net8.0\refint\SumWithoutHighestAndLowestNumber.dll
+C:\Users\PROYECTALL\Desktop\codewars\SumWithoutHighestAndLowestNumber\obj\Debug\net8.0\SumWithoutHighestAndLowestNumber.pdb
+C:\Users\PROYECTALL\Desktop\codewars\SumWithoutHighestAndLowestNumber\obj\Debug\net8.0\SumWithoutHighestAndLowestNumber.genruntimeconfig.cache
+C:\Users\PROYECTALL\Desktop\codewars\SumWithoutHighestAndLowestNumber\obj\Debug\net8.0\ref\SumWithoutHighestAndLowestNumber.dll
